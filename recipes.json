@@ -103,5 +103,48 @@
     ],
     "imageURL": "#",
     "originalURL": "#"
+},
+{
+  "name": "Tomatoe Sauce",
+  "ingredients": [
+    {
+      "quantity": "1 16oz Can",
+      "name": "Whole peeled roma tomtoes",
+      "type": "Produce"
+    },
+    {
+      "quantity": "2.5 tbsp",
+      "name": "olive oil",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 tbsp",
+      "name": "Salt",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "2 tbsp",
+      "name": "Minced Garlic",
+      "type": "Condiments"
+    },
+    {
+      "quantity": "1 cup",
+      "name": "Water",
+      "type": ""
+    },
+    {
+      "quantity": "1",
+      "name": "Medium White / Sweet Onion",
+      "type": "Produce"
+    }
+  ],
+  "steps": [
+      "Mince garlic into fine paste and dice onion. Coat semi deep pot with olive oil and heat",
+      "Sautee onion until translusent, est. 5min - add garlic for another 30 seconds",
+      "Pour in can of whole tomatoes to pot and fill half way with water and add to pot",
+      "Cook down until tomatoes are soft on a low simmer for as many hours as needed. The longer the better"
+  ],
+  "imageURL": "#",
+  "originalURL": "#"
 }
 ]
